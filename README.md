@@ -12,14 +12,6 @@
 * **Core Electrical Engineering:**
     * Electrical Circuits & Lab
     * Theory of Electrical Circuits
-    * Electronics 1 & Lab
-    * Electronics 2 & Lab
-    * Signals & Systems
-    * Electromagnetism
-    * Sensing & Measurement
-    * Communication Systems
-    * Electrical Energy Conversion 1 & Lab
-    * Analysis Of Electrical Power Systems
 
 * **Control & Systems:**
     * Linear Control Systems
@@ -37,6 +29,25 @@
     * Engineering Mathematics
     * Mathematical Methods In Engineering (Linear Algebra)
     * Engineering Statistics & Probability
+    
+* **Communications:**
+    * Signals & Systems
+    * Communication Systems
+    
+* **Electrical Energy Systems:**
+    * Electrical Energy Conversion 1 & Lab
+    * Analysis Of Electrical Power Systems
+    
+* **Electronics:**
+    * Electronics 1 & Lab
+    * Electronics 2 & Lab
+    
+* **Microwave & Photonic:**
+    * Electromagnetism
+
+* **Bioelectricity:**
+    * Sensing & Measurement
+
 ---
 
 ### 🛠 Technical Skills
@@ -69,20 +80,33 @@
   * **Electrical Circuits** | Spring 2025 | Instructor: Dr. Shamsollahi
       * Designed and prepared quiz.
       * Graded student submissions and provided feedback.
+      
   * **Electronic 1** | Fall 2025 | Instructor: Dr. Alavi
       * Designed and prepared assignment.
-      * Graded student submissions and provided feedback.
+      
   *  **Mathematical Methods In Engineering (Linear Algebra)** | Fall 2025 | Instructor: Dr. Pilaram
       * Designed and prepared assignment.
       * Graded student submissions and provided feedback.
+      
   *  **Mathematical Methods In Engineering (Linear Algebra)** | Fall 2025 | Instructor: Dr. Pilaram
       * Designed and prepared assignment.
       * Graded student submissions and provided feedback.
+      
   * **Electrical Circuits** | Spring 2026 | Instructor: Dr. Shamsollahi
       * Designed and prepared quiz.
       * Graded student submissions and provided feedback.
       
-*   **Research Interest:** Control Theory applications, Military/Defense Technology, and Statistical Data Analysis.
+   * **‌Signals & Systems ** | Spring 2026 | Instructor: Dr. Behroozi
+      * Designed and prepared quiz.
+      * Graded student submissions and provided feedback.
+    
+   * **Fundamentals of Electrical Engineering** | Spring 2026 | Instructor: Dr. Fazeli
+      * Designed and prepared assignment.
+      * Graded student submissions and provided feedback.
+    
+   *  **Mathematical Methods In Engineering (Linear Algebra)** | Spring 2026 | Instructor: Dr. Pilaram
+      * Designed and prepared assignment.
+      * Graded student submissions and provided feedback.
 
 ---
 
