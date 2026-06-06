@@ -9,7 +9,27 @@
 **Sharif University of Technology** | Tehran, Iran  
 *B.Sc. in Electrical Engineering* | 2023 – Present  
 *   **Relevant Coursework:** 
-1. Electrical Circuits & Lab, 2. Engineering Mathematics, 3. Logic Circuits & Lab, 4. Engineering Statistics & Probability, 5. Fundamental of Programming, 6. Object Oriented Programming, 7. Theory of Electrical Circuits, 8. Electronics 1 & Lab, 9. Electronics 2 & Lab, 10. Signals & Systems, 11. Electrical Energy Conversion 1 & Lab, 12. Analysis Of Electrical Power Systems, Communications Systems, Electromagnetism
+   * Electrical Circuits & Lab 
+   * Engineering Mathematics
+   * Logic Circuits & Lab
+   * Engineering Statistics & Probability
+   * Fundamental Of Programming
+   * Object Oriented Programming
+   * Theory of Electrical Circuits
+   * Electronics 1 & Lab
+   * Electronics 2 & Lab
+   * Signals & Systems
+   * Electrical Energy Conversion 1 & Lab
+   * Analysis Of Electrical Power Systems
+   * Communications Systems
+   * Electromagnetism
+   * Linear Control Systems
+   * Mathematical Methods In Engineering (Linear Algebra)
+   * Sensing & Measurement
+   * Modern Control
+   * Industrial Control
+   * Funamental Of Data Science
+   * Computer Structure
 ---
 
 ### 🛠 Technical Skills
