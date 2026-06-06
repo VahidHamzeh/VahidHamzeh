@@ -1,15 +1,15 @@
 # Vahid Hamzeh
 **Electrical Engineering Undergraduate** | Sharif University of Technology  
 📍 Tehran, Iran  
-📧 vahid.hamzeh1010@gmail.com | 🔗 [LinkedIn Profile Link]{linkedin.com/in/vahid-hamzeh} | 🐙 [[GitHub Profile Link]](https://github.com/VahidHamzeh)
+📧 vahid.hamzeh1010@gmail.com | 🔗 linkedin.com/in/vahid-hamzeh | 🐙 [GitHub Profile Link](https://github.com/VahidHamzeh)
 
 ---
 
 ### 🎓 Education
 **Sharif University of Technology** | Tehran, Iran  
 *B.Sc. in Electrical Engineering* | 2023 – Present  
-*   **Relevant Coursework:** Linear Systems Control, Circuit Theory, Digital Logic Systems, Power System Analysis.
-
+*   **Relevant Coursework:** 
+1. Electrical Circuits & Lab, 2. Engineering Mathematics, 3. Logic Circuits & Lab, 4. Engineering Statistics & Probability, 5. Fundamental of Programming, 6. Object Oriented Programming, 7. Theory of Electrical Circuits, 8. Electronics 1 & Lab, 9. Electronics 2 & Lab, 10. Signals & Systems, 11. Electrical Energy Conversion 1 & Lab, 12. Analysis Of Electrical Power Systems, Communications Systems, Electromagnetism
 ---
 
 ### 🛠 Technical Skills
