@@ -1,7 +1,7 @@
 # Vahid Hamzeh
 **Electrical Engineering Undergraduate** | Sharif University of Technology  
 📍 Tehran, Iran  
-📧 [Your Email Address] | 🔗 [LinkedIn Profile Link] | 🐙 [GitHub Profile Link]
+📧 vahid.hamzeh1010@gmail.com | 🔗 [LinkedIn Profile Link]{linkedin.com/in/vahid-hamzeh} | 🐙 [[GitHub Profile Link]](https://github.com/VahidHamzeh)
 
 ---
 
@@ -9,13 +9,12 @@
 **Sharif University of Technology** | Tehran, Iran  
 *B.Sc. in Electrical Engineering* | 2023 – Present  
 *   **Relevant Coursework:** Linear Systems Control, Circuit Theory, Digital Logic Systems, Power System Analysis.
-*   **Student ID:** 402101577
 
 ---
 
 ### 🛠 Technical Skills
-*   **Programming Languages:** Python, Java, C++, R
-*   **Engineering Software:** MATLAB, Simulink, Verilog, RStudio
+*   **Programming Languages:** Python, Java, C++, R, HTML, CSS
+*   **Engineering Software:** MATLAB, Simulink, Verilog, RStudio, LTSpice, Digital, Proteuse
 *   **Specializations:** Control Theory (ADRC, Nyquist, Root Locus), Power System Analysis (Gauss-Seidel Load Flow), Big Data Architectures.
 *   **Tools & Technologies:** LaTeX, Git/GitHub, Microsoft Office Suite.
 
@@ -45,7 +44,7 @@
 
 ### 🌐 Languages
 *   **Persian:** Native
-*   **English:** Upper-Intermediate (B2)
+*   **English:** Intermediate (B1)
 
 ---
 *Last Updated: June 2026*
