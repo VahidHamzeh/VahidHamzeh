@@ -8,35 +8,42 @@
 ### 🎓 Education
 **Sharif University of Technology** | Tehran, Iran  
 *B.Sc. in Electrical Engineering* | 2023 – Present  
-*   **Relevant Coursework:** 
-   * Electrical Circuits & Lab 
-   * Engineering Mathematics
-   * Logic Circuits & Lab
-   * Engineering Statistics & Probability
-   * Fundamental Of Programming
-   * Object Oriented Programming
-   * Theory of Electrical Circuits
-   * Electronics 1 & Lab
-   * Electronics 2 & Lab
-   * Signals & Systems
-   * Electrical Energy Conversion 1 & Lab
-   * Analysis Of Electrical Power Systems
-   * Communications Systems
-   * Electromagnetism
-   * Linear Control Systems
-   * Mathematical Methods In Engineering (Linear Algebra)
-   * Sensing & Measurement
-   * Modern Control
-   * Industrial Control
-   * Funamental Of Data Science
-   * Computer Structure
+### 🎓 Relevant Coursework
+* **Core Electrical Engineering:**
+    * Electrical Circuits & Lab
+    * Theory of Electrical Circuits
+    * Electronics 1 & Lab
+    * Electronics 2 & Lab
+    * Signals & Systems
+    * Electromagnetism
+    * Sensing & Measurement
+    * Communication Systems
+    * Electrical Energy Conversion 1 & Lab
+    * Analysis Of Electrical Power Systems
+
+* **Control & Systems:**
+    * Linear Control Systems
+    * Modern Control
+    * Industrial Control
+
+* **Computer & Data Science:**
+    * Fundamental Of Programming
+    * Object Oriented Programming
+    * Fundamental Of Data Science
+    * Computer Structure
+    * Logic Circuits & Lab
+
+* **Mathematics:**
+    * Engineering Mathematics
+    * Mathematical Methods In Engineering (Linear Algebra)
+    * Engineering Statistics & Probability
 ---
 
 ### 🛠 Technical Skills
-*   **Programming Languages:** Python, Java, C++, R, HTML, CSS
-*   **Engineering Software:** MATLAB, Simulink, Verilog, RStudio, LTSpice, Digital, Proteuse
-*   **Specializations:** Control Theory (ADRC, Nyquist, Root Locus), Power System Analysis (Gauss-Seidel Load Flow), Big Data Architectures.
-*   **Tools & Technologies:** LaTeX, Git/GitHub, Microsoft Office Suite.
+*   **Programming Languages:** Python, Java, C++, R.
+*   **Engineering Software:** MATLAB, Simulink, Verilog, RStudio, LTSpice, Digital, Proteuse.
+*   **Tools & Technologies:** LaTeX, Git/GitHub, Microsoft Office Suite, Jupyter Notebook.
+*   **Controller design**: PID, ADRC.
 
 ---
 
@@ -53,11 +60,28 @@
 *   **Power System Analysis & Load Flow**
     *   Modeled and simulated power grids using Gauss-Seidel iterative methods.
     *   Optimized series compensator placement to improve system stability.
-
+*   **Power System Analysis & Load Flow**
+    *   Modeled and simulated power grids using Gauss-Seidel iterative methods.
+    *   Optimized series compensator placement to improve system stability.
 ---
 
 ### 🎖 Academic & Professional Experience
-*   **Teaching Assistantship:** Linear Systems Control / Circuit Theory.
+  * **Electrical Circuits** | Spring 2025 | Instructor: Dr. Shamsollahi
+      * Designed and prepared quiz.
+      * Graded student submissions and provided feedback.
+  * **Electronic 1** | Fall 2025 | Instructor: Dr. Alavi
+      * Designed and prepared assignment.
+      * Graded student submissions and provided feedback.
+  *  **Mathematical Methods In Engineering (Linear Algebra)** | Fall 2025 | Instructor: Dr. Pilaram
+      * Designed and prepared assignment.
+      * Graded student submissions and provided feedback.
+  *  **Mathematical Methods In Engineering (Linear Algebra)** | Fall 2025 | Instructor: Dr. Pilaram
+      * Designed and prepared assignment.
+      * Graded student submissions and provided feedback.
+  * **Electrical Circuits** | Spring 2026 | Instructor: Dr. Shamsollahi
+      * Designed and prepared quiz.
+      * Graded student submissions and provided feedback.
+      
 *   **Research Interest:** Control Theory applications, Military/Defense Technology, and Statistical Data Analysis.
 
 ---
