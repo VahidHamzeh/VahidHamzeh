@@ -96,7 +96,7 @@
       * Designed and prepared quiz.
       * Graded student submissions and provided feedback.
       
-   * **‌Signals & Systems ** | Spring 2026 | Instructor: Dr. Behroozi
+   * **‌Signals & Systems** | Spring 2026 | Instructor: Dr. Behroozi
       * Designed and prepared quiz.
       * Graded student submissions and provided feedback.
     
